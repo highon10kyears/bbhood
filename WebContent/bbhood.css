@@ -7,12 +7,10 @@
 headgod {
 	font-family:'AnotherDanger';
 	color:rgb(175,17,28);
-	font-size: 250%;
-	margin-left: 570px;
+	font-size: 450%;
+	margin-left: 300px;
 }
 
-
-}
 p {
 	font-family: "";
 }
@@ -23,4 +21,8 @@ h {
 
 subtitle {
 	font-family: "";
+}
+
+hr {
+    border-width: 15px;
 }
