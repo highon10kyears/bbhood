@@ -9,6 +9,9 @@ headgod {
 	color:rgb(175,17,28);
 	font-size: 450%;
 	margin-left: 300px;
+	padding-bottom: 100px;
+	border-bottom-style: solid;
+	border-color: black
 }
 
 
@@ -24,3 +27,4 @@ h {
 subtitle {
 	font-family: "";
 }
+
