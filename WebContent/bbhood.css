@@ -4,6 +4,8 @@ headgod {
 	font-family:'VT323', monospace;
 	color:rgb(175,17,28);
 	font-size: 250%;
+	margin-left: 120px;
+	margin-right: 120px;
 }
 
 p {
