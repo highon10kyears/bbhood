@@ -1,5 +1,9 @@
 @charset "UTF-8";
 
+@font-face{
+	font-family: "AnotherDanger";
+	src: url("css/fonts/AnotherDanger-Demo.otf");
+}
 headgod {
 	font-family:'VT323', monospace;
 	color:rgb(175,17,28);
@@ -7,6 +11,11 @@ headgod {
 	margin-left: 570px;
 }
 
+dongertest {
+	font-family: 'AnotherDanger';
+	font-weight: normal;
+	font-style: normal;
+}
 p {
 	font-family: "";
 }
