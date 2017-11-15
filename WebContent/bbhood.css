@@ -5,16 +5,13 @@
 	src: url("css/fonts/AnotherDanger-Demo.otf");
 }
 headgod {
-	font-family:'VT323', monospace;
+	font-family:'AnotherDanger';
 	color:rgb(175,17,28);
 	font-size: 250%;
 	margin-left: 570px;
 }
 
-dongertest {
-	font-family: 'AnotherDanger';
-	font-weight: normal;
-	font-style: normal;
+
 }
 p {
 	font-family: "";
