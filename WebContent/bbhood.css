@@ -4,17 +4,16 @@
 	font-family: "AnotherDanger";
 	src: url("css/fonts/AnotherDanger-Demo.otf");
 }
+
+@font-face{
+	font-family: "f25bankprinter";
+	src: url("css/fonts/F25_Bank_Printer.ttf")
+}
 headgod {
 	font-family:'AnotherDanger';
 	color:rgb(175,17,28);
 	font-size: 450%;
 	margin-left: 300px;
-}
-
-
-}
-p {
-	font-family: "";
 }
 
 h {
