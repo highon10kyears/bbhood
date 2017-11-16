@@ -9,6 +9,11 @@
 	font-family: "f25bankprinter";
 	src: url("css/fonts/F25_Bank_Printer.ttf")
 }
+
+@font-face{
+	font-family: "charter";
+	src: url("css/fonts/CharterRegular.ttf")
+}
 headgod {
 	font-family:'AnotherDanger';
 	color:rgb(175,17,28);
