@@ -1,9 +1,8 @@
-<<<<<<< HEAD
 @charset "UTF-8";
 
 @font-face{
 	font-family: "AnotherDanger";
-	src: url("css/fonts/AnotherDanger-Demo.otf");
+	src: url("AnotherDanger-Demo.otf");
 }
 headgod {
 	font-family:'AnotherDanger';
